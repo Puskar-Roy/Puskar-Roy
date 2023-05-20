@@ -19,7 +19,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on - Try To Build A Social Media Web Application<br>🌱 I’m currently learning - React Js<br>💬 Ask me about - Web Apllications<br>⚡ Fun fact - I Think Im Funny
+🔭 I’m currently working on - Build A Real Time Chat Web Application<br>🌱 I’m currently learning - React Js<br>💬 Ask me about - Web Apllications<br>⚡ Fun fact - I Think Im Funny
 
 
 ## 🌐 Socials:
