@@ -1,43 +1,63 @@
+# 𝗛𝗲𝗹𝗹𝗼 I am Puskar Roy <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="47"> 
 
-![MasterHaad](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar-Roy&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+
+<div align="left" width="100%">
+   
+## 🧐 About
+
+- Hey, Puskar is talking. 20 y/o, 2nd yr college student 👨‍🎓, spends most of the day developing 🧑‍💻, in their spare time he goes to college ✌
+
+- 👨‍💻 Website: https://puskarroy.site
+- 📫 How to reach me: puskarroy600@gmail.com
+  
+<br />
+   
+## ⚙️ Technologies I use
+   
+### Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,c&theme=dark" />
+
+### Markup Languages
+<img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
 
 
-<h1 align="center">Hey 👋, I'm Puskar✌️</h1>
-<h2 align="center">A passionate Developer from India.</h2>
-<br/>
-<br/>
-<div align="center">
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,postgresssql&theme=dark" />
 
+### Services
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,replit&theme=dark" />
 
- 🌱 I’m currently learning **ML**
+### Other
+<img src="https://skillicons.dev/icons?i=github,gitlab,git,sentry,figma,ps&theme=dark" />
 
- 🤝 I’m looking for help with [ML](https://puskarroy.site)
+<br />
 
- 👨‍💻 All of my projects are available at [puskarroy.site](https://puskarroy.site)
-
- 💬 Ask me about **Web Apps**
-
- 📫 How to reach me **puskarroy600@gmail.com**
-
+## 📱 Me on Media
+<div>
+   <a href="https://www.instagram.com/puskar__xd/?hl=en"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://twitter.com/PuskarR_"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+   <a href="https://www.linkedin.com/in/puskar-roy/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+   <a href="https://puskarroy.site"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
-<br/>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/puskar-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puskar-roy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/puskarroy600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puskarroy600" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/puskarroy600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puskarroy600" height="30" width="40" /></a>
-</p>
-<br/>
-<br/>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
 
-<br/>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puskar-roy&show_icons=true&locale=en&layout=compact" alt="puskar-roy" /></p>
-<br/>
-<br/>
+## ⚡ GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=Puskar-Roy&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puskar-roy&" alt="puskar-roy" /></p>
+<br />
+
+
+## ✨ Visitors
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Puskar-Roy)
+
+<br />
+<br />
+
+
