@@ -6,7 +6,7 @@
    
 ## 🧐 About
 
-- Hey, Puskar is talking. 20 y/o, 2nd yr college student 👨‍🎓, spends most of the day developing 🧑‍💻, in their spare time he goes to college ✌
+- Hello, this is Puskar speaking. I'm a 20-year-old, second-year college student 👨‍🎓 who spends most of the day developing 🧑‍💻. In my spare time, I go to college ✌.
 
 - 👨‍💻 Website: https://puskarroy.site
 - 📫 How to reach me: puskarroy600@gmail.com
