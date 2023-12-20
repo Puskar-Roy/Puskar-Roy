@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,replit&theme=dark" />
 
 ### Other
-<img src="https://skillicons.dev/icons?i=github,gitlab,git,sentry,figma,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,github,gitlab,git,sentry,figma,ps&theme=dark" />
 
 <br />
 
