@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
 
 
 ### Databases
