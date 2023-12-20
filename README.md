@@ -26,7 +26,7 @@
 
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,postgresssql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,postgresql&theme=dark" />
 
 ### Services
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,replit&theme=dark" />
