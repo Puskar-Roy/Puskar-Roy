@@ -16,7 +16,7 @@
 ## ⚙️ Technologies I use
    
 ### Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,c,matlab&theme=dark" />
 
 ### Markup Languages
 <img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
