@@ -24,7 +24,6 @@
 ### Frameworks
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
 
-
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,postgresql&theme=dark" />
 
