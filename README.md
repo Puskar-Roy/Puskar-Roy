@@ -43,7 +43,6 @@
    <a href="https://puskarroy.site"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
-
 <br />
 
 ## ⚡ GitHub Trophies</h2>
