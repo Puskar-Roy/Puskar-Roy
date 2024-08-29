@@ -4,7 +4,6 @@
 
 ## 🧐 About
 
-
 - Hello, this is Puskar speaking. I'm a 20-year-old, second-year college student 👨‍🎓 who spends most of the day developing 🧑‍💻. In my spare time, I go to college ✌.
 
 - 👨‍💻 Website: https://puskarroy.in
