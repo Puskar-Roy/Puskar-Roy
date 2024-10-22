@@ -14,22 +14,22 @@
 ## ⚙️ Technologies I use
    
 ### Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,java,c,matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,javascript,typescript,python,go,java,c,matlab&theme=dark" />
 
 ### Markup Languages
 <img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=actix,react,nextjs,nodejs,nestjs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dynamodb,redis,postgresql,mongodb,mysql,firebase,sqlite&theme=dark" />
 
 ### Services
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,replit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,replit&theme=dark" />
 
 ### Other
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,git,sentry,figma,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,github,gitlab,git,sentry,figma,ps&theme=dark" />
 
 <br />
 
