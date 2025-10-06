@@ -9,8 +9,6 @@
 - 👨‍💻 Website: https://puskarroy.in
 - 📫 How to reach me: puskarroy600@gmail.com
   
-
-  
 <br />
 
 ## ⚙️ Technologies I use
