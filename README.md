@@ -43,7 +43,22 @@
 
 <br />
 
-## ⚡ GitHub Trophies</h2>
+## ⚡ GitHub Stats</h2>
+
+<br />
+
+<div  align="center" width="100%">
+  
+  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Puskar-Roy&theme=github_dark)
+  ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Puskar-Roy&theme=github_dark)
+  
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Puskar-Roy&theme=github_dark)
+  ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Puskar-Roy&theme=github_dark&utcOffset=8)
+  
+</div>
+
+<br>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Puskar-Roy&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 <br />
