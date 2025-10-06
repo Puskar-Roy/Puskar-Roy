@@ -4,7 +4,7 @@
 
 ## 🧐 About
 
-- Hello, this is Puskar speaking. I'm a 22-year-old, fourth-year college student 👨‍🎓 who spends most of the day developing 🧑‍💻. In my spare time, I go to college ✌.
+- Hello, this is Puskar speaking. I'm a 22 year-old, fourth-year college student 👨‍🎓 who spends most of the day developing 🧑‍💻. In my spare time, I go to college ✌.
 
 - 👨‍💻 Website: https://puskarroy.in
 - 📫 How to reach me: puskarroy600@gmail.com
@@ -16,20 +16,20 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=rust,javascript,typescript,python,go,java,c,matlab&theme=dark" />
 
-### Markup Languages
-<img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
-
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=actix,react,nextjs,nodejs,nestjs,tailwindcss,bootstrap,materialui,jquery,alpinejs,express,webpack,electron,graphql,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=actix,react,nextjs,remix,fastapi,nodejs,nestjs,tauri,tailwindcss,bootstrap,materialui,jquery,express,webpack,jest,electron,graphql,bun,bash,django,discordjs,selenium,bots,&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=dynamodb,redis,postgresql,mongodb,mysql,firebase,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dynamodb,kafka,redis,rabbitmq,postgresql,mongodb,mysql,firebase,sqlite&theme=dark" />
 
 ### Services
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,replit&theme=dark" />
 
-### Other
-<img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,github,gitlab,git,sentry,figma,ps&theme=dark" />
+### DevOps
+<img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,github,githubactions,gitlab,grafana,jenkins,git&theme=dark" />
+
+### OS
+<img src="https://skillicons.dev/icons?i=kali,ubuntu,windows" />
 
 <br />
 
@@ -48,7 +48,9 @@
 
 <br />
 
+## 🌱 Contributions
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar-Roy&theme=dark&hide_border=false" alt="Puskar-Roy" /></p>
 
 
 ## ✨ Visitors
